@@ -286,7 +286,7 @@ export default function Page() {
           </button>
         </div>
       )}
-      {/* Info Container - Day 1 Style */}
+      {/* Info Container */}
       <div 
         className="w-full max-w-md mb-4 p-3 rounded-lg text-center text-sm"
         style={{
@@ -298,7 +298,7 @@ export default function Page() {
         <p className="m-1.5"><strong>221011402867</strong></p>
       </div>
 
-      {/* Main Container - Day 1 Themed */}
+      {/* Main Container */}
       <div 
         className="w-full max-w-md p-6 rounded-xl text-center"
         style={{
@@ -375,7 +375,7 @@ export default function Page() {
         )}
 
         {/* ==========================
-            WALLET INFO CARD - Day 1 Style
+            WALLET INFO CARD
         ========================== */}
         <div 
           className="p-4 rounded-lg text-sm text-left mb-4"
